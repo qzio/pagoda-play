@@ -1,1 +1,4 @@
 document_root: /public
+php_error_reporting: 'E_ALL'
+php_display_errors: On
+php_short_open_tag: On
